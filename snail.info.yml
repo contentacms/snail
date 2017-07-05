@@ -1,0 +1,4 @@
+name: snail
+description: Protects url aliases to be taken into account.
+core: 8.x
+type: module
