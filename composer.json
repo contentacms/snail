@@ -1,0 +1,8 @@
+{
+    "name": "contentacms/snail",
+    "description": "Disable the URL aliases in Drupal",
+    "type": "drupal-module",
+    "license": "GPL2",
+    "minimum-stability": "dev",
+    "require": {}
+}
