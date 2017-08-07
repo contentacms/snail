@@ -11,3 +11,5 @@ This module will allow you to continue using an entity's path field, which gives
 You will continue to get your usual admin page.
 
 Based upon an idea from [@justafish](http://github.com/justafish).
+
+## ¡Don't install this module on sites with Drupal as a frontend. It will break path aliases!
