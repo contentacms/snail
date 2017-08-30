@@ -12,6 +12,8 @@ You will continue to get your usual admin page.
 
 Based upon an idea from [@justafish](http://github.com/justafish).
 
+## ¡Don't install this module on sites with Drupal as a frontend. It will break path aliases!
+
 ## Name of the module
 
 In the context of decoupled architecture and routing people talk about the concept of slugs. In Drupal these things are mostly
