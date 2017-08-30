@@ -11,3 +11,8 @@ This module will allow you to continue using an entity's path field, which gives
 You will continue to get your usual admin page.
 
 Based upon an idea from [@justafish](http://github.com/justafish).
+
+## Name of the module
+
+In the context of decoupled architecture and routing people talk about the concept of slugs. In Drupal these things are mostly
+call path aliases. This module protects the path aliase system aka. slugs, much like a snail is a protected slug.
